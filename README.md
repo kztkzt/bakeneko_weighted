@@ -13,3 +13,5 @@ Holes on the weight are countersunk 90 degrees.
 I used M2x4 countersunk screws for the weight and M2x3 hex screws for the daughterboard.
 
 If you want to see PCB files, head over to kkatano's github.
+Alternatively, you can buy a waffling60 from 4pplet
+Or get one of Hadi's had60 rev1.1 pcbs
